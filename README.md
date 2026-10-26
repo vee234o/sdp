@@ -4,7 +4,7 @@
 This project is an end-to-end machine learning pipeline and interactive web application designed to predict whether an individual is at risk of sleep disorders (Insomnia, Sleep Apnea, or None) based on lifestyle habits and clinical vitals.
 
 ## Deployed Application
-Access the live web application here: [https://sleepdisorderprediction.streamlit.app](https://sleepdisorderprediction.streamlit.app)
+Access the live web application here: [https://sdpredictor.streamlit.app](https://sdpredictor.streamlit.app/)
 
 ## Dataset
 The model is trained on the Sleep Health and Lifestyle Dataset. It contains demographic details, sleep metrics, physical activity levels, BMI categories, blood pressure, heart rate, and sleep disorder classifications.
